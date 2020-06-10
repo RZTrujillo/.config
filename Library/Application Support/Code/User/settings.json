@@ -1,0 +1,14 @@
+{
+  "prettier.jsxSingleQuote": true,
+  "prettier.printWidth": 120,
+  "editor.formatOnSave": true,
+  "prettier.jsxBracketSameLine": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.enableBold": true,
+  "terminal.integrated.fontFamily": "Hack Nerd Font",
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.rightClickCopyPaste": true
+}
